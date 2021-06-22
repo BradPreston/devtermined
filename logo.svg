@@ -32,9 +32,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.71559843"
-     inkscape:cx="-14.673034"
-     inkscape:cy="-6.987159"
+     inkscape:zoom="2.8623937"
+     inkscape:cx="157.38576"
+     inkscape:cy="68.474158"
      inkscape:window-width="1312"
      inkscape:window-height="790"
      inkscape:window-x="0"
@@ -68,30 +68,29 @@
      style="display:inline"
      transform="translate(-4.3740003,-57.118237)">
     <g
-       id="g17506"
-       transform="translate(3.7950547,6.0836842)">
+       id="g28022">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="5.2692218"
-         y="66.922432"
+         x="9.0642767"
+         y="73.006119"
          id="text495"><tspan
            sodipodi:role="line"
            id="tspan493"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.6389px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#001f3d;fill-opacity:1;stroke-width:0.264583"
-           x="5.2692218"
-           y="66.922432">DEV TERMINED</tspan></text>
+           x="9.0642767"
+           y="73.006119">DEV TERMINED</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="0.26144508"
-         y="67.713913"
+         x="4.0565"
+         y="73.7976"
          id="text8438"><tspan
            sodipodi:role="line"
            id="tspan8436"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.1667px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#09a9c8;fill-opacity:1;stroke-width:0.264583"
-           x="0.26144508"
-           y="67.713913">{     }</tspan></text>
+           x="4.0565"
+           y="73.7976">{     }</tspan></text>
     </g>
   </g>
 </svg>
