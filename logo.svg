@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="466.93668"
+   height="68.240105"
+   viewBox="0 0 123.54367 18.055195"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="467px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.012009"
+     inkscape:cx="281.12399"
+     inkscape:cy="-5.9288012"
+     inkscape:window-width="1312"
+     inkscape:window-height="790"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-4.3740003,-57.118237)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="104.31602"
+       y="15.425177"
+       id="text5470"><tspan
+         sodipodi:role="line"
+         id="tspan5468"
+         style="stroke-width:0.264583"
+         x="104.31602"
+         y="15.425177" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="logo"
+     style="display:inline"
+     transform="translate(-4.3740003,-57.118237)">
+    <g
+       id="g17506"
+       transform="translate(3.7950547,6.0836842)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.2692218"
+         y="66.922432"
+         id="text495"><tspan
+           sodipodi:role="line"
+           id="tspan493"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.6389px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#001f3d;fill-opacity:1;stroke-width:0.264583"
+           x="5.2692218"
+           y="66.922432">DEV TERMINED</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="0.26144508"
+         y="67.713913"
+         id="text8438"><tspan
+           sodipodi:role="line"
+           id="tspan8436"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.1667px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#09a9c8;fill-opacity:1;stroke-width:0.264583"
+           x="0.26144508"
+           y="67.713913">{     }</tspan></text>
+    </g>
+  </g>
+</svg>
