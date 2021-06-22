@@ -6,7 +6,6 @@
 
 body {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 100vw;
@@ -16,11 +15,16 @@ body {
     overflow: hidden;
 }
 
-p {
+.wrapper {
     width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
 }
 
 img {
-    width: 70%;
+    width: 100%;
     margin-bottom: 25px;
 }
